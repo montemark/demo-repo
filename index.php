@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    Sample
+    <h1>Hello Word</h1>
 </body>
 </html>
